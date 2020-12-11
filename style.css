@@ -61,7 +61,7 @@ a {
 	bottom: 0;
 	left: -300px;
 	width:300px;
-	background-color: #A52A2A(16, 47, 80, .9);
+	background-color: rgba(16, 47, 80, .9);
 	transition: .3s;
 	z-index: 9999;
 }
