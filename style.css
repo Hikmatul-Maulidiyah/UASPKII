@@ -17,7 +17,7 @@ header h1 a {
 	transition: .3s;
 }
 header h1 a:hover {
-	color: #F84744;
+	color: #A9A9A9;
 }
 header ul {
 	float: right;
@@ -30,7 +30,7 @@ header ul li a {
 	transition: .3s;
 }
 header ul li a:hover {
-	color: #F84744;
+	color: #A9A9A9;
 }
 a {
 	text-decoration: none;
@@ -74,7 +74,7 @@ a {
 	transition-property: background-color;
 }
 .sidebar ul li:hover {
-	background-color: #F84744;
+	background-color: #A9A9A9;
 }
 #check:checked ~ .sidebar {
 	left: 0;
